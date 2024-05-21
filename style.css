@@ -49,8 +49,27 @@ h1{
 }
 
 .top-dishes{
-  
    text-align: center;
+}
+
+.book-btn a{
+text-decoration: none;
+ color: white;
+}
+
+.booking-btn{
+  text-align: center;
+}
+
+.book-btn{
+   font-size: 18px;
+   border-radius: 10px;
+   padding: 10px 20px;
+   font-family: "Poppins", sans-serif;
+   border: none;
+   margin-top: 20px;
+   cursor: pointer;
+   background-color: black;
 }
 
 @media screen and (min-width: 1110px) {
