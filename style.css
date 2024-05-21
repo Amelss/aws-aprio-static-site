@@ -62,7 +62,7 @@ text-decoration: none;
 
 .booking-btn{
   text-align: center;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
 
 .book-btn{
@@ -83,7 +83,11 @@ text-decoration: none;
 
 .grid-section{
  text-align: center;
+ padding-bottom: 20px;
+ padding-top: 20px;
+
 }
+
 
  .grid-text{
 
@@ -127,6 +131,7 @@ footer{
 
   .grid-section{
    padding-top: 30px;
+    background-color: rgb(248, 244, 235);
   }
 
    .text-image{
