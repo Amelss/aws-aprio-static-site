@@ -1,4 +1,4 @@
-# AWS Static S3 Project - Aprió
+# AWS Project - Aprió
 
 ## About The Project 
 
